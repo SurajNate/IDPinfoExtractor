@@ -50,11 +50,11 @@ npm install
 src/utils/geminiProcessor.ts
 ```
 
-**Current API Key**: `AIzaSyBhwQX2LAHJ1TXttmYKLkXG-JbUgar30dE`
+**Current API Key**: `Na Na Na use yours ☺ ☺ ☺`
 
 To change the API key:
 1. Open `src/utils/geminiProcessor.ts`
-2. Find the line: `const GOOGLE_AI_API_KEY = 'AIzaSyBhwQX2LAHJ1TXttmYKLkXG-JbUgar30dE';`
+2. Find the line: `const GOOGLE_AI_API_KEY = 'Na Na Na use yours ☺ ☺ ☺';`
 3. Replace the key with your own Google AI API key
 
 ### 4. Getting Your Own Google AI API Key
@@ -118,18 +118,6 @@ npm run build
 
 The built files will be in the `dist/` directory.
 
-## Deployment
-
-This project can be deployed to any static hosting service:
-- Vercel
-- Netlify
-- GitHub Pages
-- AWS S3 + CloudFront
-
-For deployment via Lovable:
-1. Open your project in Lovable
-2. Click "Share" → "Publish"
-3. Your app will be live with a public URL
 
 ## API Limits and Costs
 
@@ -165,7 +153,7 @@ For deployment via Lovable:
 
 ## License
 
-This project is built with Lovable and uses various open-source libraries. Please check individual package licenses for specific terms.
+This project is build by Suraj Nate and uses various open-source libraries. Please check individual package licenses for specific terms.
 
 ## Contributing
 

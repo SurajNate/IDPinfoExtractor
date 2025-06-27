@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI, Part } from '@google/generative-ai';
 
 // Hardcoded API key
-const GOOGLE_AI_API_KEY = 'AIzaSyBhwQX2LAHJ1TXttmYKLkXG-JbUgar30dE';
+const GOOGLE_AI_API_KEY = 'No Dear use Your Key Please ☺ ☺ ☺';
 
 // Model configuration matching your Python setup
 const MODEL_CONFIG = {
